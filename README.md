@@ -61,9 +61,5 @@ Example:
 Open:
 http://127.0.0.1:8000/docs
 
-## Notes
-- Keep .env file private
-- Ensure token has repo permission
-
 ## Conclusion
 This project shows basic GitHub API integration using FastAPI with features like fetching repositories and managing issues.
