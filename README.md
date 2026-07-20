@@ -1,4 +1,4 @@
-# GitHub Cloud Connector – AVENTISIA Assignment
+# GitHub Cloud Connector – AVENTISIA
 
 ## Objective
 The purpose of this project is to develop a simple GitHub Cloud Connector that interacts with the GitHub REST API. It demonstrates API integration, authentication, and basic repository operations.
